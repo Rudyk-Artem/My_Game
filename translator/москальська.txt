@@ -1,0 +1,40 @@
+|Math Challenge:
+The first player wins
+The first player wins
+The first player wins
+Check the result
+Count your points
+|Math Challenge Settings:
+Interface tongue:
+|Math Challenge Rules:
+Rules of the game:
+
+Math Challenge is a game for two players. Players take turns placing chips on the playing field.
+Above the player's field is written the random number of the D6 cube, which he will now place.
+If several identical numbers are in a row, they are multiplied, for example here:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4*4*4=64 and 6*6=36 , 2*2=4 because it is a series of identical numbers, but 3 is not multiplied here
+because between them there is another chip, just added. In the example: 4*4*4+5+3+3+2+1+1=79 and
+6*6+2*2+5+5+4+2=56 i.e. now the first player wins.
+
+The one with more points wins, the game ends when one of the players fills the entire field.
+Created by Rudyk Artem ©
+|Math Challenge Menu:
+|
